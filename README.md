@@ -1,1 +1,2 @@
-Use 'yarn && yarn start' to get started
+
+Use `yarn && yarn start` to get started
