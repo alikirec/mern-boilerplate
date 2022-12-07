@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/alikirec/mern-boilerplate#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.9.0"
